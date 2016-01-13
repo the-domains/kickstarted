@@ -1,0 +1,28 @@
+name: Kickstarted
+favicon: null
+layout_spectrum: 0.6481050893198699
+typography_spectrum: 0.9599996046163142
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.10456582042388618
+  lightness: 0.7687099843751639
+  saturation: 0.6171996232587844
+  rhythmicContrast: 0.08151758089661598
+purpose: []

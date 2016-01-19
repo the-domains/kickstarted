@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Kickstarted]]></title>
         <description><![CDATA[Kickstarted]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/kickstarted/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 19 Jan 2016 15:53:22 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 19 Jan 2016 15:54:01 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/kickstarted/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[MOGICS Power Donut & Bagel - Share the Power, Save the Space]]></title>
+            <description><![CDATA[<article><h1>MOGICS Power Donut & Bagel - Share the Power, Save the Space</h1><p>MOGICS is raising funds for MOGICS Power Donut & Bagel - Share the Power, Save the Space on Kickstarter! World's Only Travel Power Strip. Smaller than a donut. A revolutionary product that will forever change the way we travel.</p></article>]]></description>
+            <link>https://www.kickstarter.com/projects/962021031/mogics-power-donut-and-bagel-share-the-power-save</link>
+            <guid isPermaLink="false">8749807e-88fc-48ce-a2e5-3e6963137a56</guid>
+            <pubDate>Tue, 19 Jan 2016 15:53:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Glowforge - the 3D laser printer]]></title>
-            <description><![CDATA[<article><h1>Glowforge - the 3D laser printer</h1><p>Glowforge is a 3D laser printer: a new desktop tool that uses laser cutter/engraver technology to shape wood, leather, fabric & more at an amazing price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/79d3f4676db22b389d03e841faa8051aca98c8c3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1>Glowforge - the 3D laser printer</h1><p>Glowforge is a 3D laser printer: a new desktop tool that uses laser cutter/engraver technology to shape wood, leather, fabric & more at an amazing price.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/74cdee535349330ec582a4034b94187461699df1.jpg"></article>]]></description>
             <link>https://glowforge.com/</link>
             <guid isPermaLink="false">0d3cc099-ed31-4a7d-95b9-1ef9ab88f305</guid>
             <pubDate>Tue, 19 Jan 2016 15:53:20 GMT</pubDate>
